@@ -3,3 +3,5 @@ Wordpress theme, based on [7color](http://wordpress.org/extend/themes/7color), t
 Sadly, there was an argue between some of the writers, and we remained without much content.
 
 ![screenshot](https://github.com/palcu/cearena-wp/raw/master/screenshots/s1_cearena.png)
+
+[License](http://wordpress.org/about/gpl/)
